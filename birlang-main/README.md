@@ -3,8 +3,6 @@ Desenvolvimento de linguagem para declaraçoes de rotinas na vida de uma pessoa
 
 # Grupo 
 ```
-Grupo:
-
 Bruno de Silveira Biaziolli - RA: 760318
 
 Gabriel Pandolfi Correa dos Santos - RA: 769831
@@ -21,11 +19,9 @@ java -jar "C:\localização_do_arquivo_fonte\Birlang-1.0-SNAPSHOT-jar-with-depen
 java -jar "C:\localização_do_arquivo_fonte\Birlang-1.0-SNAPSHOT-jar-with-dependencies.jar" "C:\localização_do_arquivo_de_entrada\teste3-erro.rotina" "C:\localização_do_arquivo_de_saida\teste3-erro.html"
 
 java -jar "C:\localização_do_arquivo_fonte\Birlang-1.0-SNAPSHOT-jar-with-dependencies.jar" "C:\localização_do_arquivo_de_entrada\teste4-erro.rotina" "C:\localização_do_arquivo_de_saida\teste4-erro.html"
-
-
 ```
 
-# Examples de entrada que está funcionando, sem gerar erros Lexicos ou Semanticos
+# Examplo de entrada que está funcionando, sem gerar erros Lexicos ou Semanticos
 
 entrada:
 ```
