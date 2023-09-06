@@ -1,0 +1,17 @@
+nome: "Grupo trabalhador"
+dia da semana: "Terça-feira"
+estilo: Trabalho
+data: 05/09/2023
+
+ROTINA
+periodo: Matutino
+acordar: 0 horas e 59 minutos
+reunião de equipe: 0 horas e 40 minutos
+END_ROTINA
+
+ROTINA
+periodo: Vespertino
+trabalhar: 0 horas e 50 minutos
+almoçar: 0 horas e 40 minutos
+END_ROTINA
+
